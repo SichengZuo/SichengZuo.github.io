@@ -28,10 +28,10 @@ favicon: /img/favicon.ico
 disqus:
   shortname: zeki
 
-# google analytics config
-ga:
-  id: UA-134455385-1
-  url: SichengZuo.github.io
+# # google analytics config
+# ga:
+#   id: UA-134455385-1
+#   url: SichengZuo.github.io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html # 博文的固定链接
@@ -49,3 +49,5 @@ gems:
   - jekyll-feed
 
 theme: jekyll-theme-slate
+
+future: True

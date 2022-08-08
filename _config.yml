@@ -21,17 +21,17 @@ github: SichengZuo
 # linkedin: chiemon
 
 # avatar and Favicon
-avatar: /img/chiemon-icon.jpg
+avatar: /img/zeki_icon.jpg
 favicon: /img/favicon.ico
 
 # comment config
 disqus:
-  shortname: chiemon
+  shortname: zeki
 
 # google analytics config
 ga:
   id: UA-134455385-1
-  url: chiemon.github.io
+  url: SichengZuo.github.io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html # 博文的固定链接
